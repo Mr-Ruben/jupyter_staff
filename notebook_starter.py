@@ -1,7 +1,7 @@
 
-# This has nothing to do with the topic, but I like displaying all the output
+# To display the output of all commands
 from IPython.core.interactiveshell import InteractiveShell
-InteractiveShell.ast_node_interactivity = "all"
+InteractiveShell.ast_node_interactivity = "all"  # none last
 
 
 # Set your own project id here
